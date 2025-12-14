@@ -1,0 +1,23 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< dev.codeio:Todo >---------------------------
+[INFO] Building Todo 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.4.1:clean (default-clean) @ Todo ---
+[INFO] Deleting D:\Downloads\SpringBoot-main\SpringBoot-main\TodoBackend\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ Todo ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.14.0:compile (default-compile) @ Todo ---
+[INFO] Recompiling the module because of changed source code.
+[INFO] Compiling 12 source files with javac [debug parameters release 17] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.442 s
+[INFO] Finished at: 2025-12-12T20:29:54+05:30
+[INFO] ------------------------------------------------------------------------
